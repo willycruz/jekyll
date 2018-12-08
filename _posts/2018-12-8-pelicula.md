@@ -7,13 +7,9 @@ A continuación les dejo los enlaces de cada página Web:
 ## Enlaces
 
 ### <a href="https://homecine.net/">Home Cine</a>
-### Cine Online
-<a href="https://www.cine-online.eu/">Cine Online</a>
-### Repelis TV
-<a href="http://www.cliver.tv/">Repelis TV</a>
-### Ver Pelis
-<a href="http://ver-pelis.me//">Ver Pelis</a>
-### Pelis Plus
-<a href="https://www.pelisplus.to/">Pelis Plus</a>
+### <a href="https://www.cine-online.eu/">Cine Online</a>
+### <a href="http://www.cliver.tv/">Repelis TV</a>
+### <a href="http://ver-pelis.me//">Ver Pelis</a>
+### <a href="https://www.pelisplus.to/">Pelis Plus</a>
 
 
