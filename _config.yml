@@ -9,7 +9,7 @@ name: Wilmer Cruz
 description: Los Sitios de Película Más Visto en Internet
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://st-listas.20minutos.es/images/2012-06/335200/list_640px.jpg?1496332986
+avatar: https://avatars2.githubusercontent.com/u/16138563?s=460&v=4
 
 #
 # Flags below are optional
@@ -39,14 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 #<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118151326-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-118151326-1');
-</script>
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
