@@ -4,12 +4,9 @@ title: ¡Los Sitios Web Para ver Película en Línea!
 ---
 A continuación les dejo los enlaces de cada página Web:
 
-![Pelicula]({{ site.baseurl }}/images/pelisCollage2.jpg)
-
 ## Enlaces
 
-### Home Cine
-<a href="https://homecine.net/">Home Cine</a>
+### <a href="https://homecine.net/">Home Cine</a>
 ### Cine Online
 <a href="https://www.cine-online.eu/">Cine Online</a>
 ### Repelis TV
