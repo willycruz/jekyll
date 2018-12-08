@@ -2,7 +2,7 @@
 layout: post
 title: ¡Los Sitios Web Para ver Película en Línea!
 ---
-Muchas veces, queremos ver película en familia un domingo, pero pasa que nadie tiene Netflix, Qubit, ni Amazon. La cual deprime a la familiar entera (LOL), por eso he decido buscar alternativas a las plataformas de pago, en su mayoría también a pesar de ser gratis brindan contenidos en alta calidad en diferentes idiomas. 
+Muchas veces, queremos ver película en familia un domingo, pero pasa que nadie tiene Netflix, Qubit, ni Amazon. La cual deprime a la familia entera (LOL), por eso he decido buscar alternativas a las plataformas de pago, en su mayoría también a pesar de ser gratis brindan excelentes contenidos en alta calidad y en diferentes idiomas. 
 
 A continuación les dejo los enlaces de cada página Web:
 
