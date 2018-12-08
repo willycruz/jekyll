@@ -18,7 +18,7 @@ avatar: https://avatars2.githubusercontent.com/u/16138563?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:  wpianchiche15@gmail.com
   facebook: wpianchiche
   flickr:
   github: willycruz
@@ -39,6 +39,14 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 #<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118151326-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118151326-1');
+</script>
 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
