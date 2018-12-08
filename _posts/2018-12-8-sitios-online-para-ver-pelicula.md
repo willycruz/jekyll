@@ -3,8 +3,8 @@ layout: post
 title: ¡Sitios Web Gratuitos Para Ver Películas en Línea!
 ---
 
-##Sección 1
-![Pelicula]({{site.baseurl}}/images/pelisCollage2)
+## Sección 1
+![Pelicula]({{ site.baseurl }}/images/pelisCollage2)
 
 Link
 Home Cine: https://homecine.net/
